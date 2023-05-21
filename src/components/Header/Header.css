@@ -1,0 +1,8 @@
+.header {
+  width: 100%;
+  background-color: var(--color-water-10);
+  padding: 2rem 0;
+}
+.header__title {
+  text-align: center;
+}
