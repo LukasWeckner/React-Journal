@@ -4,6 +4,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  color: var(--color-granite);
+}
+
 :root {
   /* Used for texts (+ footer background) */
   --color-granite: #252629;
