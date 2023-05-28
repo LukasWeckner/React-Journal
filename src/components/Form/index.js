@@ -1,4 +1,4 @@
-import Button from "../Button";
+import SubmitButton from "../SubmitButton";
 import "./Form.css";
 
 export default function Form() {
@@ -25,7 +25,7 @@ export default function Form() {
           id="entry-content"
           name="entry-content"
         ></textarea>
-        <Button>Create</Button>
+        <SubmitButton> Create</SubmitButton>
       </form>
     </>
   );
