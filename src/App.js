@@ -1,8 +1,7 @@
-import EntryList from "./components/EntryList";
+import EntrySection from "./components/EntrySection";
 import Footer from "./components/Footer";
 import Form from "./components/Form";
 import Header from "./components/Header";
-import TabBar from "./components/TabBar";
 
 function App() {
   return (
@@ -10,8 +9,7 @@ function App() {
       <Header />
       <main>
         <Form />
-        <TabBar />
-        <EntryList />
+        <EntrySection />
       </main>
       <Footer />
     </>
