@@ -1,0 +1,8 @@
+.tab__badge {
+  background-color: var(--color-nemo);
+  padding: 1px 6px;
+  border-radius: 5px;
+}
+.tab__name {
+  font-size: 0.8rem;
+}
